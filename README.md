@@ -16,7 +16,6 @@
 
 ## Project Structure
 - **Scripts**: Contains gameplay logic, including player movement and scoring.
-- **Scenes**: Includes the main game scene.
 - **Assets**: Contains textures, models, and other game assets.
 
 <img width="837" alt="Screenshot 2025-05-31 at 11 40 09 AM" src="https://github.com/user-attachments/assets/e8855775-5c5e-440f-ba9f-b06cc56231fd" />
