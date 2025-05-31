@@ -1,0 +1,52 @@
+# Unity specific files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/Plugins/*/Editor/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.swp
+*.tmp
+
+# Ignore package manager files
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Exclude user-specific settings
+UserSettings/
+
+# Exclude large files
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+*.zip
+*.rar
+*.mp4
+*.mov
+*.wav
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.psd
+*.ai
+*.fbx
+*.obj
+*.blend
+*.unitypackage
