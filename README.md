@@ -2,11 +2,15 @@
 
 **Obstacle Dodge** is a Unity-based 3D game where player navigate through challenging environments, avoiding obstacles and interacting with the world.
 
-## Features
-- **Player Movement**: Smooth controls using keyboard inputs (`WASD` or arrow keys).
-- **Obstacle Interaction**: Dynamic collision effects with obstacles.
-- **Scoring System**: Tracks successful dodges and interactions.
-- **Unity Input System**: Supports multiple input devices.
+### Key Features
+- **Player Movement**: Control the player using keyboard inputs (`WASD` or arrow keys) to move and dodge obstacles.
+- **Dynamic Obstacles**:
+  - **Projectile Hazards**: Objects that move toward the player and trigger collisions.
+  - **Falling Objects**: Obstacles that drop from above require quick reflexes to avoid.
+  - **Spinning Objects**: Rotating hazards that create unpredictable movement patterns.
+- **Collision Effects**: Interact with obstacles to trigger visual and gameplay effects.
+- **Scoring System**: Tracks successful dodges and interactions to calculate the player's score.
+
 
 
 ## Gameplay
